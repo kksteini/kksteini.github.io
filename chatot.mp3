@@ -1,0 +1,107 @@
+00036D (v01 SataRe SataTabl 00001000 INTL 20120711)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: SSDT 0x00000000C8F86100 0034E1 (v01 SaSsdt SaSsdt   00003000 INTL 20091112)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: DMAR 0x00000000C8F895E8 0000B8 (v01 INTEL  HSW      00000001 INTL 00000001)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] No NUMA configuration found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Faking a node at [mem 0x0000000000000000-0x000000032f5fffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] NODE_DATA(0) allocated [mem 0x32f5f6000-0x32f5fafff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Zone ranges:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   Normal   [mem 0x0000000100000000-0x000000032f5fffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   Device   empty
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Movable zone start for each node
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Early memory node ranges
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009cfff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x00000000b56cffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   node   0: [mem 0x00000000b56d7000-0x00000000b61b7fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   node   0: [mem 0x00000000b6708000-0x00000000c8e0ffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   node   0: [mem 0x00000000c8ea8000-0x00000000c8ee7fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   node   0: [mem 0x00000000cafff000-0x00000000caffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   node   0: [mem 0x0000000100000000-0x000000032f5fffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000032f5fffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] On node 0 totalpages: 3112598
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   DMA zone: 64 pages used for memmap
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   DMA zone: 21 pages reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   DMA zone: 3996 pages, LIFO batch:0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   DMA32 zone: 12772 pages used for memmap
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   DMA32 zone: 817402 pages, LIFO batch:31
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   Normal zone: 35800 pages used for memmap
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000]   Normal zone: 2291200 pages, LIFO batch:31
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Reserving Intel graphics stolen memory at 0xcba00000-0xcf9fffff
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0xff] high edge lint[0x1])
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] IOAPIC[0]: apic_id 8, version 32, address 0xfec00000, GSI 0-23
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: IRQ0 used by override.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: IRQ9 used by override.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] ACPI: HPET id: 0x8086a701 base: 0xfed00000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] smpboot: Allowing 4 CPUs, 0 hotplug CPUs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009d000-0x0009dfff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009e000-0x0009ffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000dffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000e0000-0x000fffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xb56d0000-0xb56d6fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xb61b8000-0xb6707fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xc8e10000-0xc8ea7fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xc8ee8000-0xc8fa7fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xc8fa8000-0xcaffefff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xcb000000-0xcb7fffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xcb800000-0xcf9fffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xcfa00000-0xf7ffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xf8000000-0xfbffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfc000000-0xfebfffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec00000-0xfec00fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec01000-0xfecfffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed00000-0xfed03fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed04000-0xfed1bfff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed1c000-0xfed1ffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed20000-0xfedfffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfee00000-0xfee00fff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfee01000-0xfeffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xff000000-0xffffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] e820: [mem 0xcfa00000-0xf7ffffff] available for PCI devices
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Booting paravirtualized kernel on bare hardware
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] setup_percpu: NR_CPUS:512 nr_cpumask_bits:512 nr_cpu_ids:4 nr_node_ids:1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PERCPU: Embedded 33 pages/cpu @ffff88032f200000 s98264 r8192 d28712 u524288
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] pcpu-alloc: s98264 r8192 d28712 u524288 alloc=1*2097152
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] pcpu-alloc: [0] 0 1 2 3 
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Built 1 zonelists in Node order, mobility grouping on.  Total pages: 3063941
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Policy zone: Normal
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-75-generic root=UUID=4155e739-552e-4466-8e0a-58509c2abd75 ro quiet splash vt.handoff=7
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Memory: 12128928K/12450392K available (8449K kernel code, 1294K rwdata, 3980K rodata, 1484K init, 1316K bss, 321464K reserved, 0K cma-reserved)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Hierarchical RCU implementation.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 64.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=512 to nr_cpu_ids=4.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=4
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] NR_IRQS:33024 nr_irqs:456 16
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] vt handoff: transparent VT on vt#7
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] Console: colour dummy device 80x25
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] console [tty0] enabled
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] clocksource: hpet: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 133484882848 ns
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] hpet clockevent registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] tsc: Fast TSC calibration using PIT
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000000] tsc: Detected 3491.764 MHz processor
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000022] Calibrating delay loop (skipped), value calculated using timer frequency.. 6983.52 BogoMIPS (lpj=13967056)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000024] pid_max: default: 32768 minimum: 301
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.000029] ACPI: Core revision 20150930
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.006639] ACPI: 5 ACPI AML tables successfully acquired and loaded
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.006656] Security Framework initialized
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.006657] Yama: becoming mindful.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.006672] AppArmor: AppArmor initialized
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.007290] Dentry cache hash table entries: 2097152 (order: 12, 16777216 bytes)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.010296] Inode-cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.011635] Mount-cache hash table entries: 32768 (order: 6, 262144 bytes)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.011647] Mountpoint-cache hash table entries: 32768 (order: 6, 262144 bytes)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.011884] Initializing cgroup subsys io
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.011888] Initializing cgroup subsys memory
+May  1 20:0

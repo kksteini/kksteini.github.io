@@ -1,0 +1,151 @@
+stemd[1]: Starting RealtimeKit Scheduling Policy Service...
+May  1 20:01:04 steini-G1-Sniper-B5 dbus[852]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started RealtimeKit Scheduling Policy Service.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully called chroot.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully dropped privileges.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully limited resources.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Running.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Watchdog thread running.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Canary thread running.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2602 of process 2602 (n/a) owned by '1000' high priority at nice level -11.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 1 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 1 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2611 of process 2602 (n/a) owned by '1000' RT at priority 5.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 2 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 2 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2612 of process 2602 (n/a) owned by '1000' RT at priority 5.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 3 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 3 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2613 of process 2602 (n/a) owned by '1000' RT at priority 5.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 4 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 4 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2614 of process 2602 (n/a) owned by '1000' RT at priority 5.
+May  1 20:01:04 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 5 threads of 1 processes of 1 users.
+May  1 20:01:04 steini-G1-Sniper-B5 dbus[852]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service'
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Starting Daemon for power management...
+May  1 20:01:04 steini-G1-Sniper-B5 dbus[852]: [system] Successfully activated service 'org.freedesktop.UPower'
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started Daemon for power management.
+May  1 20:01:04 steini-G1-Sniper-B5 ntpd[1850]: error resolving pool 1.ubuntu.pool.ntp.org: Temporary failure in name resolution (-3)
+May  1 20:01:04 steini-G1-Sniper-B5 dbus[852]: [system] Activating via systemd: service name='org.freedesktop.UDisks2' unit='udisks2.service'
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Starting Disk Manager...
+May  1 20:01:04 steini-G1-Sniper-B5 udisksd[2678]: udisks daemon version 2.1.7 starting
+May  1 20:01:04 steini-G1-Sniper-B5 dbus[852]: [system] Successfully activated service 'org.freedesktop.UDisks2'
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started Disk Manager.
+May  1 20:01:04 steini-G1-Sniper-B5 udisksd[2678]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+May  1 20:01:04 steini-G1-Sniper-B5 org.gtk.vfs.AfcVolumeMonitor[2554]: Volume monitor alive
+May  1 20:01:04 steini-G1-Sniper-B5 dbus[852]: [system] Activating via systemd: service name='org.freedesktop.ColorManager' unit='colord.service'
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Starting Manage, Install and Generate Color Profiles...
+May  1 20:01:04 steini-G1-Sniper-B5 dbus[852]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started Manage, Install and Generate Color Profiles.
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started PostgreSQL Cluster 9.5-main.
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Starting PostgreSQL RDBMS...
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started PostgreSQL RDBMS.
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Reached target Multi-User System.
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Reached target Graphical Interface.
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started Stop ureadahead data collection 45s after completed startup.
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Starting Update UTMP about System Runlevel Changes...
+May  1 20:01:04 steini-G1-Sniper-B5 systemd[1]: Started Update UTMP about System Runlevel Changes.
+May  1 20:01:04 steini-G1-Sniper-B5 ModemManager[883]: <info>  Couldn't find support for device at '/sys/devices/pci0000:00/0000:00:19.0': not supported by any plugin
+May  1 20:01:05 steini-G1-Sniper-B5 ntpd[1850]: error resolving pool 2.ubuntu.pool.ntp.org: Temporary failure in name resolution (-3)
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 5 threads of 1 processes of 1 users.
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2744 of process 2602 (n/a) owned by '1000' RT at priority 5.
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 6 threads of 1 processes of 1 users.
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 6 threads of 1 processes of 1 users.
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2745 of process 2602 (n/a) owned by '1000' RT at priority 5.
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 7 threads of 1 processes of 1 users.
+May  1 20:01:05 steini-G1-Sniper-B5 dbus[852]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service'
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Successfully made thread 2747 of process 2747 (n/a) owned by '1000' high priority at nice level -11.
+May  1 20:01:05 steini-G1-Sniper-B5 rtkit-daemon[2607]: Supervising 8 threads of 2 processes of 1 users.
+May  1 20:01:05 steini-G1-Sniper-B5 pulseaudio[2747]: [pulseaudio] pid.c: Daemon already running.
+May  1 20:01:06 steini-G1-Sniper-B5 /cinnamon-killer-daemon: Bound Cinnamon restart to <Control><Alt>Escape.
+May  1 20:01:06 steini-G1-Sniper-B5 ntpd[1850]: error resolving pool 3.ubuntu.pool.ntp.org: Temporary failure in name resolution (-3)
+May  1 20:01:06 steini-G1-Sniper-B5 kernel: [    8.674448] e1000e: eno1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: Rx/Tx
+May  1 20:01:06 steini-G1-Sniper-B5 kernel: [    8.674492] IPv6: ADDRCONF(NETDEV_CHANGE): eno1: link becomes ready
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5008] device (eno1): link connected
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5012] device (eno1): state change: unavailable -> disconnected (reason 'carrier-changed') [20 30 40]
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5017] policy: auto-activating connection 'Profile 1'
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5024] device (eno1): Activation: starting connection 'Profile 1' (61b4c417-b487-46db-a333-42defb01aa0d)
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5025] device (eno1): state change: disconnected -> prepare (reason 'none') [30 40 0]
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5026] manager: NetworkManager state is now CONNECTING
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5029] device (eno1): state change: prepare -> config (reason 'none') [40 50 0]
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5033] device (eno1): state change: config -> ip-config (reason 'none') [50 70 0]
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5041] dhcp4 (eno1): activation: beginning transaction (timeout in 45 seconds)
+May  1 20:01:06 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668866.5131] dhcp4 (eno1): dhclient started with pid 2827
+May  1 20:01:06 steini-G1-Sniper-B5 dhclient[2827]: DHCPDISCOVER on eno1 to 255.255.255.255 port 67 interval 3 (xid=0x8558de0b)
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[1850]: error resolving pool ntp.ubuntu.com: Temporary failure in name resolution (-3)
+May  1 20:01:07 steini-G1-Sniper-B5 dhclient[2827]: DHCPREQUEST of 192.168.1.73 on eno1 to 255.255.255.255 port 67 (xid=0xbde5885)
+May  1 20:01:07 steini-G1-Sniper-B5 dhclient[2827]: DHCPOFFER of 192.168.1.73 from 192.168.1.1
+May  1 20:01:07 steini-G1-Sniper-B5 dhclient[2827]: DHCPACK of 192.168.1.73 from 192.168.1.1
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5521]   address 192.168.1.73
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5524]   plen 24 (255.255.255.0)
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5527]   gateway 192.168.1.1
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5527]   server identifier 192.168.1.1
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5527]   lease time 86400
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5527]   nameserver '8.8.4.4'
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5528]   nameserver '8.8.8.8'
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5528] dhcp4 (eno1): state changed unknown -> bound
+May  1 20:01:07 steini-G1-Sniper-B5 avahi-daemon[920]: Joining mDNS multicast group on interface eno1.IPv4 with address 192.168.1.73.
+May  1 20:01:07 steini-G1-Sniper-B5 avahi-daemon[920]: New relevant interface eno1.IPv4 for mDNS.
+May  1 20:01:07 steini-G1-Sniper-B5 avahi-daemon[920]: Registering new address record for 192.168.1.73 on eno1.IPv4.
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5539] device (eno1): state change: ip-config -> ip-check (reason 'none') [70 80 0]
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5548] device (eno1): state change: ip-check -> secondaries (reason 'none') [80 90 0]
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5551] device (eno1): state change: secondaries -> activated (reason 'none') [90 100 0]
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5552] manager: NetworkManager state is now CONNECTED_LOCAL
+May  1 20:01:07 steini-G1-Sniper-B5 dhclient[2827]: bound to 192.168.1.73 -- renewal in 40058 seconds.
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5596] manager: NetworkManager state is now CONNECTED_GLOBAL
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5599] policy: set 'Profile 1' (eno1) as default for IPv4 routing and DNS
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5604] dns-plugin[0x1a7f900]: starting dnsmasq...
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.5655] dns-mgr: Writing DNS information to /sbin/resolvconf
+May  1 20:01:07 steini-G1-Sniper-B5 dnsmasq[2871]: started, version 2.75 cache disabled
+May  1 20:01:07 steini-G1-Sniper-B5 dnsmasq[2871]: compile time options: IPv6 GNU-getopt DBus i18n IDN DHCP DHCPv6 no-Lua TFTP conntrack ipset auth DNSSEC loop-detect inotify
+May  1 20:01:07 steini-G1-Sniper-B5 dnsmasq[2871]: DBus support enabled: connected to system bus
+May  1 20:01:07 steini-G1-Sniper-B5 dnsmasq[2871]: warning: no upstream servers configured
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.6153] device (eno1): Activation: successful, device activated.
+May  1 20:01:07 steini-G1-Sniper-B5 nm-dispatcher: req:2 'up' [eno1]: new request (1 scripts)
+May  1 20:01:07 steini-G1-Sniper-B5 nm-dispatcher: req:2 'up' [eno1]: start running ordered scripts...
+May  1 20:01:07 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668867.6233] dnsmasq[0x1a7f900]: dnsmasq appeared as :1.45
+May  1 20:01:07 steini-G1-Sniper-B5 dnsmasq[2871]: setting upstream servers from DBus
+May  1 20:01:07 steini-G1-Sniper-B5 dnsmasq[2871]: using nameserver 8.8.4.4#53(via eno1)
+May  1 20:01:07 steini-G1-Sniper-B5 dnsmasq[2871]: using nameserver 8.8.8.8#53(via eno1)
+May  1 20:01:07 steini-G1-Sniper-B5 avahi-daemon[920]: Joining mDNS multicast group on interface eno1.IPv6 with address fe80::f390:1d52:da4b:8b74.
+May  1 20:01:07 steini-G1-Sniper-B5 avahi-daemon[920]: New relevant interface eno1.IPv6 for mDNS.
+May  1 20:01:07 steini-G1-Sniper-B5 avahi-daemon[920]: Registering new address record for fe80::f390:1d52:da4b:8b74 on eno1.*.
+May  1 20:01:07 steini-G1-Sniper-B5 systemd[1]: Stopping LSB: Start NTP daemon...
+May  1 20:01:07 steini-G1-Sniper-B5 ntp[3003]:  * Stopping NTP server ntpd
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[1850]: ntpd exiting on signal 15 (Terminated)
+May  1 20:01:07 steini-G1-Sniper-B5 ntp[3003]:    ...done.
+May  1 20:01:07 steini-G1-Sniper-B5 systemd[1]: Stopped LSB: Start NTP daemon.
+May  1 20:01:07 steini-G1-Sniper-B5 systemd[1]: Stopped LSB: Start NTP daemon.
+May  1 20:01:07 steini-G1-Sniper-B5 systemd[1]: Starting LSB: Start NTP daemon...
+May  1 20:01:07 steini-G1-Sniper-B5 ntp[3110]:  * Starting NTP server ntpd
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3121]: ntpd 4.2.8p4@1.3265-o Wed Apr  5 13:28:07 UTC 2017 (1): Starting
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3121]: Command line: /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 108:114
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: proto: precision = 0.040 usec (-24)
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: Listen and drop on 0 v6wildcard [::]:123
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: Listen and drop on 1 v4wildcard 0.0.0.0:123
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: Listen normally on 2 lo 127.0.0.1:123
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: Listen normally on 3 eno1 192.168.1.73:123
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: Listen normally on 4 lo [::1]:123
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: Listen normally on 5 eno1 [fe80::f390:1d52:da4b:8b74%2]:123
+May  1 20:01:07 steini-G1-Sniper-B5 ntpd[3123]: Listening on routing socket on fd #22 for interface updates
+May  1 20:01:07 steini-G1-Sniper-B5 ntp[3110]:    ...done.
+May  1 20:01:07 steini-G1-Sniper-B5 systemd[1]: Started LSB: Start NTP daemon.
+May  1 20:01:08 steini-G1-Sniper-B5 systemd[1]: Started Daily apt activities.
+May  1 20:01:08 steini-G1-Sniper-B5 systemd[1]: apt-daily.timer: Adding 10h 51min 30.300531s random time.
+May  1 20:01:08 steini-G1-Sniper-B5 systemd[1]: Startup finished in 2.996s (kernel) + 7.198s (userspace) = 10.194s.
+May  1 20:01:08 steini-G1-Sniper-B5 systemd[1]: apt-daily.timer: Adding 8h 24min 1.427031s random time.
+May  1 20:01:08 steini-G1-Sniper-B5 ntpdate[3032]: the NTP socket is in use, exiting
+May  1 20:01:08 steini-G1-Sniper-B5 systemd[1]: Started LSB: Start NTP daemon.
+May  1 20:01:08 steini-G1-Sniper-B5 ntpd[3123]: Soliciting pool server 130.208.87.149
+May  1 20:01:09 steini-G1-Sniper-B5 ntpd[3123]: Soliciting pool server 130.208.87.152
+May  1 20:01:09 steini-G1-Sniper-B5 ntpd[3123]: Soliciting pool server 193.4.58.44
+May  1 20:01:10 steini-G1-Sniper-B5 ntpd[3123]: Soliciting pool server 130.208.87.151
+May  1 20:01:10 steini-G1-Sniper-B5 ntpd[3123]: Soliciting pool server 89.17.134.23
+May  1 20:01:12 steini-G1-Sniper-B5 systemd[2366]: Time has been changed
+May  1 20:01:12 steini-G1-Sniper-B5 systemd[1]: Time has been changed
+May  1 20:01:12 steini-G1-Sniper-B5 systemd[1]: apt-daily.timer: Adding 14min 45.063588s random time.
+May  1 20:01:12 steini-G1-Sniper-B5 ntpd[3123]: Soliciting pool server 2001:67c:6c:58::44
+May  1 20:01:13 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668873.5447] manager: startup complete
+May  1 20:01:14 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668874.5420] manager: WiFi hardware radio set enabled
+May  1 20:01:14 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668874.5420] manager: WWAN hardware radio set disabled
+May  1 20:01:14 steini-G1-Sniper-B5 ntpd[3123

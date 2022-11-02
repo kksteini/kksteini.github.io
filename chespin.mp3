@@ -1,0 +1,120 @@
+ steini-G1-Sniper-B5 kernel: [    1.247850]  sdd: sdd1 sdd2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.248089] sd 3:0:0:0: [sdd] Attached SCSI disk
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.272172] usb 3-9: new full-speed USB device number 3 using xhci_hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.272854]  sda: sda1 sda2 < sda5 sda6 >
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.273757] sd 0:0:0:0: [sda] Attached SCSI disk
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.319604]  sdc: sdc1 sdc2 < sdc5 sdc6 >
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.320293] sd 2:0:0:0: [sdc] Attached SCSI disk
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.401345] usb 3-9: New USB device found, idVendor=046d, idProduct=c332
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.401348] usb 3-9: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.401349] usb 3-9: Product: Gaming Mouse G502
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.401350] usb 3-9: Manufacturer: Logitech
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.401351] usb 3-9: SerialNumber: 048236793738
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.404251] hidraw: raw HID events driver (C) Jiri Kosina
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.406754] usbcore: registered new interface driver usbhid
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.406755] usbhid: USB HID core driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.407836] input: Logitech Gaming Mouse G502 as /devices/pci0000:00/0000:00:14.0/usb3/3-9/3-9:1.0/0003:046D:C332.0001/input/input5
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.407918] hid-generic 0003:046D:C332.0001: input,hidraw0: USB HID v1.11 Mouse [Logitech Gaming Mouse G502] on usb-0000:00:14.0-9/input0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.408822] input: Logitech Gaming Mouse G502 as /devices/pci0000:00/0000:00:14.0/usb3/3-9/3-9:1.1/0003:046D:C332.0002/input/input6
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.464462] hid-generic 0003:046D:C332.0002: input,hiddev0,hidraw1: USB HID v1.11 Keyboard [Logitech Gaming Mouse G502] on usb-0000:00:14.0-9/input1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.568184] usb 3-11: new full-speed USB device number 4 using xhci_hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.588211] tsc: Refined TSC clocksource calibration: 3491.913 MHz
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.588227] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x3255790e5ea, max_idle_ns: 440795224414 ns
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.604221] [drm] ib test on ring 5 succeeded
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605519] [drm] Radeon Display Connectors
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605520] [drm] Connector 0:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605521] [drm]   DP-1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605522] [drm]   HPD5
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605523] [drm]   DDC: 0x6430 0x6430 0x6434 0x6434 0x6438 0x6438 0x643c 0x643c
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605523] [drm]   Encoders:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605524] [drm]     DFP1: INTERNAL_UNIPHY2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605525] [drm] Connector 1:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605525] [drm]   HDMI-A-1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605526] [drm]   HPD6
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605526] [drm]   DDC: 0x6460 0x6460 0x6464 0x6464 0x6468 0x6468 0x646c 0x646c
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605527] [drm]   Encoders:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605527] [drm]     DFP2: INTERNAL_UNIPHY1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605528] [drm] Connector 2:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605528] [drm]   DVI-D-1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605529] [drm]   HPD1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605529] [drm]   DDC: 0x6450 0x6450 0x6454 0x6454 0x6458 0x6458 0x645c 0x645c
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605530] [drm]   Encoders:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605530] [drm]     DFP3: INTERNAL_UNIPHY1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605531] [drm] Connector 3:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605531] [drm]   DVI-I-1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605532] [drm]   HPD3
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605532] [drm]   DDC: 0x6470 0x6470 0x6474 0x6474 0x6478 0x6478 0x647c 0x647c
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605533] [drm]   Encoders:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605533] [drm]     DFP4: INTERNAL_UNIPHY
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.605534] [drm]     CRT1: INTERNAL_KLDSCP_DAC1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.701003] usb 3-11: New USB device found, idVendor=045e, idProduct=028e
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.701005] usb 3-11: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.701006] usb 3-11: Product: Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.701007] usb 3-11: Manufacturer: ©Microsoft Corporation
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.701008] usb 3-11: SerialNumber: 194B9C9
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.703816] [drm] fb mappable at 0xE0475000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.703817] [drm] vram apper at 0xE0000000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.703818] [drm] size 8294400
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.703818] [drm] fb depth is 24
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.703819] [drm]    pitch is 7680
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.703950] fbcon: radeondrmfb (fb0) is primary device
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.704001] Console: switching to colour frame buffer device 200x56
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.704015] radeon 0000:01:00.0: fb0: radeondrmfb frame buffer device
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.712285] [drm] Initialized radeon 2.43.0 20080528 for 0000:01:00.0 on minor 0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.712981] [drm] Memory usable by graphics device = 2048M
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.712984] [drm] Replacing VGA console driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.719422] [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.719423] [drm] Driver supports precise vblank timestamp query.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.719790] vgaarb: device changed decodes: PCI:0000:01:00.0,olddecodes=io+mem,decodes=none:owns=io+mem
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.719793] vgaarb: device changed decodes: PCI:0000:00:02.0,olddecodes=io+mem,decodes=none:owns=mem
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.739201] i915 0000:00:02.0: No connectors reported connected with modes
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.739206] [drm] Cannot find any crtc or sizes - going 1024x768
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.739598] i915 0000:00:02.0: fb1: inteldrmfb frame buffer device
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.739781] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.740090] acpi device:60: registered as cooling_device9
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.740173] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input7
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.740337] [drm] Initialized i915 1.6.0 20151010 for 0000:00:02.0 on minor 1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.816198] usb 3-12: new full-speed USB device number 5 using xhci_hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.944762] usb 3-12: New USB device found, idVendor=04d9, idProduct=0201
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.944764] usb 3-12: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.944765] usb 3-12: Product: USB-HID Keyboard
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.945792] input: USB-HID Keyboard as /devices/pci0000:00/0000:00:14.0/usb3/3-12/3-12:1.0/0003:04D9:0201.0003/input/input8
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.000421] hid-generic 0003:04D9:0201.0003: input,hidraw2: USB HID v1.11 Keyboard [USB-HID Keyboard] on usb-0000:00:14.0-12/input0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.001175] hid-generic 0003:04D9:0201.0004: hiddev0,hidraw3: USB HID v1.11 Device [USB-HID Keyboard] on usb-0000:00:14.0-12/input1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.002521] input: USB-HID Keyboard as /devices/pci0000:00/0000:00:14.0/usb3/3-12/3-12:1.2/0003:04D9:0201.0005/input/input9
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.056551] hid-generic 0003:04D9:0201.0005: input,hidraw4: USB HID v1.11 Mouse [USB-HID Keyboard] on usb-0000:00:14.0-12/input2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.240206] raid6: sse2x1   gen() 11117 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.308207] raid6: sse2x1   xor()  9400 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.376208] raid6: sse2x2   gen() 15616 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.444234] raid6: sse2x2   xor() 10414 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.512196] raid6: sse2x4   gen() 17918 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.580199] raid6: sse2x4   xor() 12030 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.648220] raid6: avx2x1   gen() 22081 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.716206] raid6: avx2x2   gen() 28115 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.784209] raid6: avx2x4   gen() 31902 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.784226] raid6: using algorithm avx2x4 gen() 31902 MB/s
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.784227] raid6: using avx2x2 recovery algorithm
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.784372] clocksource: Switched to clocksource tsc
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.785208] xor: automatically using best checksumming function:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.824230]    avx       : 37650.000 MB/sec
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.832607] Btrfs loaded
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.870217] random: nonblocking pool is initialized
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    2.927784] EXT4-fs (sdb1): mounted filesystem with ordered data mode. Opts: (null)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.135466] lp: driver loaded but no devices found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.137465] ppdev: user-space parallel port driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.306694] EXT4-fs (sdb1): re-mounted. Opts: errors=remount-ro
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.418128] shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.506268] usbcore: registered new interface driver snd-usb-audio
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.510129] snd_hda_intel 0000:00:03.0: bound 0000:00:02.0 (ops i915_audio_component_bind_ops [i915])
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.511078] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524205] snd_hda_codec_realtek hdaudioC2D2: ALC1150: SKU not ready 0x00000000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524712] snd_hda_codec_realtek hdaudioC2D2: autoconfig for ALC1150: line_outs=3 (0x14/0x15/0x16/0x0/0x0) type:line
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524713] snd_hda_codec_realtek hdaudioC2D2:    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524714] snd_hda_codec_realtek hdaudioC2D2:    hp_outs=1 (0x1b/0x0/0x0/0x0/0x0)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524715] snd_hda_codec_realtek hdaudioC2D2:    mono: mono_out=0x0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524716] snd_hda_codec_realtek hdaudioC2D2:    dig-out=0x11/0x1e
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524716] snd_hda_codec_realtek hdaudioC2D2:    inputs:
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524718] snd_hda_codec_realtek hdaudioC2D2:      Front Mic=0x19
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524719] snd_hda_codec_realtek hdaudioC2D2:      Rear Mic=0x18
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.524720] snd_hda_codec_realtek hdaudioC2D2:      Line=0x1a
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    3.528793] input: HDA ATI HDMI HDMI/DP

@@ -1,0 +1,131 @@
+i-G1-Sniper-B5 kernel: [    0.136446] pci 0000:00:1d.0: reg 0x10: [mem 0xf7d3b000-0xf7d3b3ff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136516] pci 0000:00:1d.0: PME# supported from D0 D3hot D3cold
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136550] pci 0000:00:1d.0: System wakeup disabled by ACPI
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136576] pci 0000:00:1f.0: [8086:8c50] type 00 class 0x060100
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136715] pci 0000:00:1f.2: [8086:8c02] type 00 class 0x010601
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136734] pci 0000:00:1f.2: reg 0x10: [io  0xf0d0-0xf0d7]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136741] pci 0000:00:1f.2: reg 0x14: [io  0xf0c0-0xf0c3]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136747] pci 0000:00:1f.2: reg 0x18: [io  0xf0b0-0xf0b7]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136754] pci 0000:00:1f.2: reg 0x1c: [io  0xf0a0-0xf0a3]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136760] pci 0000:00:1f.2: reg 0x20: [io  0xf060-0xf07f]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136767] pci 0000:00:1f.2: reg 0x24: [mem 0xf7d3a000-0xf7d3a7ff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136791] pci 0000:00:1f.2: PME# supported from D3hot
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136835] pci 0000:00:1f.3: [8086:8c22] type 00 class 0x0c0500
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136850] pci 0000:00:1f.3: reg 0x10: [mem 0xf7d39000-0xf7d390ff 64bit]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136870] pci 0000:00:1f.3: reg 0x20: [io  0xf040-0xf05f]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136955] pci 0000:01:00.0: [1002:6719] type 00 class 0x030000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136977] pci 0000:01:00.0: reg 0x10: [mem 0xe0000000-0xefffffff 64bit pref]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136987] pci 0000:01:00.0: reg 0x18: [mem 0xf7c20000-0xf7c3ffff 64bit]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.136993] pci 0000:01:00.0: reg 0x20: [io  0xe000-0xe0ff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.137005] pci 0000:01:00.0: reg 0x30: [mem 0xf7c00000-0xf7c1ffff pref]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.137027] pci 0000:01:00.0: supports D1 D2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.137044] pci 0000:01:00.0: System wakeup disabled by ACPI
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.137069] pci 0000:01:00.1: [1002:aa80] type 00 class 0x040300
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.137091] pci 0000:01:00.1: reg 0x10: [mem 0xf7c40000-0xf7c43fff 64bit]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.137140] pci 0000:01:00.1: supports D1 D2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146712] pci 0000:00:01.0: PCI bridge to [bus 01]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146714] pci 0000:00:01.0:   bridge window [io  0xe000-0xefff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146716] pci 0000:00:01.0:   bridge window [mem 0xf7c00000-0xf7cfffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146718] pci 0000:00:01.0:   bridge window [mem 0xe0000000-0xefffffff 64bit pref]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146764] pci 0000:00:1c.0: PCI bridge to [bus 02]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146825] pci 0000:03:00.0: [8086:244e] type 01 class 0x060401
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146945] pci 0000:03:00.0: supports D1 D2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146946] pci 0000:03:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146965] pci 0000:03:00.0: System wakeup disabled by ACPI
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.146986] pci 0000:00:1c.3: PCI bridge to [bus 03-04]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147102] pci 0000:03:00.0: PCI bridge to [bus 04] (subtractive decode)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147619] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 *11 12 14 15)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147648] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 *10 11 12 14 15)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147675] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 *5 6 10 11 12 14 15)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147702] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 *5 6 10 11 12 14 15)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147728] ACPI: PCI Interrupt Link [LNKE] (IRQs *3 4 5 6 10 11 12 14 15)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147754] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 11 12 14 15) *0, disabled.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147781] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 10 *11 12 14 15)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.147807] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 *10 11 12 14 15)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148004] ACPI: Enabled 4 GPEs in block 00 to 3F
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148103] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=mem,locks=none
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148107] vgaarb: setting as boot device: PCI:0000:01:00.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148107] vgaarb: device added: PCI:0000:01:00.0,decodes=io+mem,owns=io+mem,locks=none
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148108] vgaarb: loaded
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148109] vgaarb: bridge control possible 0000:01:00.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148109] vgaarb: no bridge control possible 0000:00:02.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148256] SCSI subsystem initialized
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148291] libata version 3.00 loaded.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148316] ACPI: bus type USB registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148329] usbcore: registered new interface driver usbfs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148334] usbcore: registered new interface driver hub
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148352] usbcore: registered new device driver usb
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.148493] PCI: Using ACPI for IRQ routing
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149853] PCI: pci_cache_line_size set to 64 bytes
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149900] e820: reserve RAM buffer [mem 0x0009d800-0x0009ffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149901] e820: reserve RAM buffer [mem 0xb56d0000-0xb7ffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149902] e820: reserve RAM buffer [mem 0xb61b8000-0xb7ffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149903] e820: reserve RAM buffer [mem 0xc8e10000-0xcbffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149904] e820: reserve RAM buffer [mem 0xc8ee8000-0xcbffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149904] e820: reserve RAM buffer [mem 0xcb000000-0xcbffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149905] e820: reserve RAM buffer [mem 0x32f600000-0x32fffffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149998] NetLabel: Initializing
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149999] NetLabel:  domain hash size = 128
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.149999] NetLabel:  protocols = UNLABELED CIPSOv4
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.150008] NetLabel:  unlabeled traffic allowed by default
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.150062] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.150065] hpet0: 8 comparators, 64-bit 14.318180 MHz counter
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.152081] amd_nb: Cannot enumerate AMD northbridges
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.152093] clocksource: Switched to clocksource hpet
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.156966] AppArmor: AppArmor Filesystem Enabled
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157019] pnp: PnP ACPI init
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157102] system 00:00: [mem 0xfed40000-0xfed44fff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157105] system 00:00: Plug and Play ACPI device, IDs PNP0c01 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157222] system 00:01: [io  0x0680-0x069f] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157224] system 00:01: [io  0xffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157225] system 00:01: [io  0xffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157226] system 00:01: [io  0xffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157227] system 00:01: [io  0x1c00-0x1cfe] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157228] system 00:01: [io  0x1d00-0x1dfe] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157229] system 00:01: [io  0x1e00-0x1efe] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157230] system 00:01: [io  0x1f00-0x1ffe] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157231] system 00:01: [io  0x1800-0x18fe] could not be reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157232] system 00:01: [io  0x164e-0x164f] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157234] system 00:01: Plug and Play ACPI device, IDs PNP0c02 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157252] pnp 00:02: Plug and Play ACPI device, IDs PNP0b00 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157287] system 00:03: [io  0x1854-0x1857] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157289] system 00:03: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157366] system 00:04: [io  0x0a00-0x0a0f] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157367] system 00:04: [io  0x0a30-0x0a3f] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157368] system 00:04: [io  0x0a20-0x0a2f] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157370] system 00:04: Plug and Play ACPI device, IDs PNP0c02 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157524] pnp 00:05: [dma 0 disabled]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157552] pnp 00:05: Plug and Play ACPI device, IDs PNP0501 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157586] system 00:06: [io  0x04d0-0x04d1] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157588] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157861] system 00:07: [mem 0xfed1c000-0xfed1ffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157863] system 00:07: [mem 0xfed10000-0xfed17fff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157864] system 00:07: [mem 0xfed18000-0xfed18fff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157865] system 00:07: [mem 0xfed19000-0xfed19fff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157867] system 00:07: [mem 0xf8000000-0xfbffffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157868] system 00:07: [mem 0xfed20000-0xfed3ffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157869] system 00:07: [mem 0xfed90000-0xfed93fff] could not be reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157870] system 00:07: [mem 0xfed45000-0xfed8ffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157871] system 00:07: [mem 0xff000000-0xffffffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157872] system 00:07: [mem 0xfee00000-0xfeefffff] could not be reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157873] system 00:07: [mem 0xf7fdf000-0xf7fdffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157874] system 00:07: [mem 0xf7fe0000-0xf7feffff] has been reserved
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.157876] system 00:07: Plug and Play ACPI device, IDs PNP0c02 (active)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.158019] pnp: PnP ACPI: found 8 devices
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.163925] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.163963] pci 0000:00:01.0: PCI bridge to [bus 01]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.163965] pci 0000:00:01.0:   bridge window [io  0xe000-0xefff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.163968] pci 0000:00:01.0:   bridge window [mem 0xf7c00000-0xf7cfffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.163970] pci 0000:00:01.0:   bridge window [mem 0xe0000000-0xefffffff 64bit pref]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.163974] pci 0000:00:1c.0: PCI bridge to [bus 02]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.163984] pci 0000:03:00.0: PCI bridge to [bus 04]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164005] pci 0000:00:1c.3: PCI bridge to [bus 03-04]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164016] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164017] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164018] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164019] pci_bus 0000:00: resource 7 [mem 0x000d0000-0x000d3fff window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164019] pci_bus 0000:00: resource 8 [mem 0x000d4000-0x000d7fff window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164020] pci_bus 0000:00: resource 9 [mem 0x000d8000-0x000dbfff window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164021] pci_bus 0000:00: resource 10 [mem 0x000dc000-0x000dffff window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164022] pci_bus 0000:00: resource 11 [mem 0x000e0000-0x000e3fff window]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.164023] pci_bus 0000:00: re

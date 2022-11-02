@@ -1,0 +1,276 @@
+1:02 steini-G1-Sniper-B5 kernel: [    0.591314] software IO TLB [mem 0xc4e10000-0xc8e10000] (64MB) mapped at [ffff8800c4e10000-ffff8800c8e0ffff]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591375] RAPL PMU detected, API unit is 2^-32 Joules, 4 fixed counters 655360 ms ovfl timer
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591376] hw unit of domain pp0-core 2^-14 Joules
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591376] hw unit of domain package 2^-14 Joules
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591377] hw unit of domain dram 2^-14 Joules
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591377] hw unit of domain pp1-gpu 2^-14 Joules
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591526] Scanning for low memory corruption every 60 seconds
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591788] audit: initializing netlink subsys (disabled)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.591803] audit: type=2000 audit(1493668857.584:1): initialized
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.592130] Initialise system trusted keyring
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.592229] HugeTLB registered 1 GB page size, pre-allocated 0 pages
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.592230] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.593107] zbud: loaded
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.593268] VFS: Disk quotas dquot_6.6.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.593293] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.593471] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.593649] fuse init (API version 7.23)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.593739] Key type big_key registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.593752] Allocating IMA MOK and blacklist keyrings.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594167] Key type asymmetric registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594170] Asymmetric key parser 'x509' registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594203] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594232] io scheduler noop registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594234] io scheduler deadline registered (default)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594257] io scheduler cfq registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594647] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594651] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594677] vesafb: mode is 1400x1050x32, linelength=5632, pages=0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594677] vesafb: scrolling: redraw
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594678] vesafb: Truecolor: size=0:8:8:8, shift=0:16:8:0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594693] vesafb: framebuffer at 0xe0000000, mapped to 0xffffc90002000000, using 5824k, total 5824k
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594760] Console: switching to colour frame buffer device 175x65
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594773] fb0: VESA VGA frame buffer device
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594787] intel_idle: MWAIT substates: 0x42120
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594787] intel_idle: v0.4.1 model 0x3C
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594788] intel_idle: lapic_timer_reliable_states 0xffffffff
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594965] input: Power Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594968] ACPI: Power Button [PWRB]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594993] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.594994] ACPI: Power Button [PWRF]
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.595462] thermal LNXTHERM:00: registered as thermal_zone0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.595464] ACPI: Thermal Zone [TZ00] (28 C)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.595588] thermal LNXTHERM:01: registered as thermal_zone1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.595589] ACPI: Thermal Zone [TZ01] (30 C)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.595632] GHES: HEST is not enabled!
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.595709] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.616219] 00:05: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.617384] Linux agpgart interface v0.103
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.619502] loop: module loaded
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.619715] libphy: Fixed MDIO Bus: probed
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.619718] tun: Universal TUN/TAP device driver, 1.6
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.619718] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.619837] PPP generic driver version 2.4.2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.619949] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.619954] ehci-pci: EHCI PCI platform driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.620045] ehci-pci 0000:00:1a.0: EHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.620050] ehci-pci 0000:00:1a.0: new USB bus registered, assigned bus number 1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.620060] ehci-pci 0000:00:1a.0: debug port 2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.623954] ehci-pci 0000:00:1a.0: cache line size of 64 is not supported
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.623968] ehci-pci 0000:00:1a.0: irq 16, io mem 0xf7d3c000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636151] ehci-pci 0000:00:1a.0: USB 2.0 started, EHCI 1.00
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636213] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636215] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636216] usb usb1: Product: EHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636217] usb usb1: Manufacturer: Linux 4.4.0-75-generic ehci_hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636217] usb usb1: SerialNumber: 0000:00:1a.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636341] hub 1-0:1.0: USB hub found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636346] hub 1-0:1.0: 2 ports detected
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636504] ehci-pci 0000:00:1d.0: EHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636509] ehci-pci 0000:00:1d.0: new USB bus registered, assigned bus number 2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.636518] ehci-pci 0000:00:1d.0: debug port 2
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.640403] ehci-pci 0000:00:1d.0: cache line size of 64 is not supported
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.640414] ehci-pci 0000:00:1d.0: irq 23, io mem 0xf7d3b000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656180] ehci-pci 0000:00:1d.0: USB 2.0 started, EHCI 1.00
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656242] usb usb2: New USB device found, idVendor=1d6b, idProduct=0002
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656243] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656244] usb usb2: Product: EHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656245] usb usb2: Manufacturer: Linux 4.4.0-75-generic ehci_hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656246] usb usb2: SerialNumber: 0000:00:1d.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656363] hub 2-0:1.0: USB hub found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656367] hub 2-0:1.0: 2 ports detected
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656449] ehci-platform: EHCI generic platform driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656458] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656462] ohci-pci: OHCI PCI platform driver
+May  1 20:01:02 steini-G1-Sniper-B5 rsyslogd-2039: Could not open output pipe '/dev/xconsole':: No such file or directory [v8.16.0 try http://www.rsyslog.com/e/2039 ]
+May  1 20:01:02 steini-G1-Sniper-B5 rsyslogd-2007: action 'action 10' suspended, next retry is Mon May  1 20:01:32 2017 [v8.16.0 try http://www.rsyslog.com/e/2007 ]
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Network Manager...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Avahi mDNS/DNS-SD Stack...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started ACPI event daemon.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656469] ohci-platform: OHCI generic platform driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656474] uhci_hcd: USB Universal Host Controller Interface driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656557] xhci_hcd 0000:00:14.0: xHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.656561] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 3
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657644] xhci_hcd 0000:00:14.0: hcc params 0x200077c1 hci version 0x100 quirks 0x00009810
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657648] xhci_hcd 0000:00:14.0: cache line size of 64 is not supported
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657722] usb usb3: New USB device found, idVendor=1d6b, idProduct=0002
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657723] usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657724] usb usb3: Product: xHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657724] usb usb3: Manufacturer: Linux 4.4.0-75-generic xhci-hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657725] usb usb3: SerialNumber: 0000:00:14.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657842] hub 3-0:1.0: USB hub found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.657857] hub 3-0:1.0: 12 ports detected
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659813] xhci_hcd 0000:00:14.0: xHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659816] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 4
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659841] usb usb4: New USB device found, idVendor=1d6b, idProduct=0003
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659842] usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659843] usb usb4: Product: xHCI Host Controller
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659844] usb usb4: Manufacturer: Linux 4.4.0-75-generic xhci-hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659845] usb usb4: SerialNumber: 0000:00:14.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659960] hub 4-0:1.0: USB hub found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.659971] hub 4-0:1.0: 6 ports detected
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.660785] i8042: PNP: No PS/2 controller found. Probing ports directly.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661201] serio: i8042 KBD port at 0x60,0x64 irq 1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661206] serio: i8042 AUX port at 0x60,0x64 irq 12
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661380] mousedev: PS/2 mouse device common for all mice
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661598] rtc_cmos 00:02: RTC can wake from S4
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661735] rtc_cmos 00:02: rtc core: registered rtc_cmos as rtc0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661764] rtc_cmos 00:02: alarms up to one month, y3k, 242 bytes nvram, hpet irqs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661769] i2c /dev entries driver
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661806] device-mapper: uevent: version 1.0.3
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661899] device-mapper: ioctl: 4.34.0-ioctl (2015-10-28) initialised: dm-devel@redhat.com
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.661916] Intel P-state driver initializing.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.662091] ledtrig-cpu: registered to indicate activity on CPUs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.663060] NET: Registered protocol family 10
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.663453] NET: Registered protocol family 17
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.663484] Key type dns_resolver registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.664023] microcode: CPU0 sig=0x306c3, pf=0x2, revision=0x1e
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.664038] microcode: CPU1 sig=0x306c3, pf=0x2, revision=0x1e
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.664055] microcode: CPU2 sig=0x306c3, pf=0x2, revision=0x1e
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.664095] microcode: CPU3 sig=0x306c3, pf=0x2, revision=0x1e
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.664245] microcode: Microcode Update Driver: v2.01 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.664813] registered taskstats version 1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.664857] Loading compiled-in X.509 certificates
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.667150] Loaded X.509 cert 'Build time autogenerated kernel key: c2fea74804032151001b764dbf9eab8df960fa59'
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.667206] zswap: loaded using pool lzo/zbud
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.669628] Key type trusted registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.672858] Key type encrypted registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.672864] AppArmor: AppArmor sha1 policy hashing enabled
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.672866] ima: No TPM chip found, activating TPM-bypass!
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.672887] evm: HMAC attrs: 0x1
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.673270]   Magic number: 1:152:42
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.673279] bdi 7:7: hash matches
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.673344] memory memory78: hash matches
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.673408] rtc_cmos 00:02: setting system clock to 2017-05-01 20:00:58 UTC (1493668858)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.673535] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.673536] EDD information not available.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.673585] PM: Hibernation image not present or could not be loaded.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.674465] Freeing unused kernel memory: 1484K (ffffffff81f45000 - ffffffff820b8000)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.674466] Write protecting the kernel read-only data: 14336k
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.675070] Freeing unused kernel memory: 1780K (ffff880001843000 - ffff880001a00000)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.675296] Freeing unused kernel memory: 116K (ffff880001de3000 - ffff880001e00000)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.684731] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.684788] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.684797] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.684806] random: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.685236] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.685269] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.685429] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.685464] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.685500] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.685530] random: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.703113] FUJITSU Extended Socket Network Device Driver - version 1.0 - Copyright (c) 2015 FUJITSU LIMITED
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.714422] pps_core: LinuxPPS API ver. 1 registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.714424] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.715185] PTP clock support registered
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.716320] [drm] Initialized drm 1.1.0 20060810
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.717589] e1000e: Intel(R) PRO/1000 Network Driver - 3.2.6-k
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.717591] e1000e: Copyright(c) 1999 - 2015 Intel Corporation.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.717767] e1000e 0000:00:19.0: Interrupt Throttling Rate (ints/sec) set to dynamic conservative mode
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.741028] [drm] radeon kernel modesetting enabled.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.742566] AMD IOMMUv2 driver by Joerg Roedel <jroedel@suse.de>
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.742568] AMD IOMMUv2 functionality not available on this system
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.744316] CRAT table not found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.744317] Finished initializing topology ret=0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.744407] kfd kfd: Initialized module
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.744555] checking generic (e0000000 5b0000) vs hw (e0000000 10000000)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.744557] fb: switching to radeondrmfb from VESA VGA
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.744578] Console: switching to colour dummy device 80x25
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.744987] [drm] initializing kernel modesetting (CAYMAN 0x1002:0x6719 0x1458:0x21FD).
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745001] [drm] register mmio base: 0xF7C20000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745001] [drm] register mmio size: 131072
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745073] ATOM BIOS: GV
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745148] radeon 0000:01:00.0: VRAM: 1024M 0x0000000000000000 - 0x000000003FFFFFFF (1024M used)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745149] radeon 0000:01:00.0: GTT: 1024M 0x0000000040000000 - 0x000000007FFFFFFF
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745150] [drm] Detected VRAM RAM=1024M, BAR=256M
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745150] [drm] RAM width 256bits DDR
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745354] [TTM] Zone  kernel: Available graphics memory: 6085870 kiB
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745355] [TTM] Zone   dma32: Available graphics memory: 2097152 kiB
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745356] [TTM] Initializing pool allocator
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745359] [TTM] Initializing DMA pool allocator
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745374] [drm] radeon: 1024M of VRAM memory ready
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745375] [drm] radeon: 1024M of GTT memory ready.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745385] [drm] Loading CAYMAN Microcode
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.745454] [drm] Internal thermal controller with fan control
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.754669] [drm] radeon: dpm initialized
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.754756] [drm] GART: num cpu pages 262144, num gpu pages 262144
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.755441] [drm] enabling PCIE gen 2 link speeds, disable with radeon.pcie_gen2=0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.758721] [drm] PCIE GART of 1024M enabled (table at 0x0000000000274000).
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.758834] radeon 0000:01:00.0: WB enabled
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.758835] radeon 0000:01:00.0: fence driver on ring 0 use gpu addr 0x0000000040000c00 and cpu addr 0xffff880035021c00
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759602] radeon 0000:01:00.0: fence driver on ring 5 use gpu addr 0x0000000000072118 and cpu addr 0xffffc90002832118
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759603] radeon 0000:01:00.0: fence driver on ring 1 use gpu addr 0x0000000040000c04 and cpu addr 0xffff880035021c04
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759604] radeon 0000:01:00.0: fence driver on ring 2 use gpu addr 0x0000000040000c08 and cpu addr 0xffff880035021c08
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759605] radeon 0000:01:00.0: fence driver on ring 3 use gpu addr 0x0000000040000c0c and cpu addr 0xffff880035021c0c
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759606] radeon 0000:01:00.0: fence driver on ring 4 use gpu addr 0x0000000040000c10 and cpu addr 0xffff880035021c10
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759608] [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759608] [drm] Driver supports precise vblank timestamp query.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759609] radeon 0000:01:00.0: radeon: MSI limited to 32-bit
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759641] radeon 0000:01:00.0: radeon: using MSI.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.759671] [drm] radeon: irq initialized.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.778972] [drm] ring test on 0 succeeded in 3 usecs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.778981] [drm] ring test on 3 succeeded in 4 usecs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.778988] [drm] ring test on 4 succeeded in 4 usecs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.886645] e1000e 0000:00:19.0 eth0: registered PHC clock
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.886665] e1000e 0000:00:19.0 eth0: (PCI Express:2.5GT/s:Width x1) fc:aa:14:90:dc:d0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.886666] e1000e 0000:00:19.0 eth0: Intel(R) PRO/1000 Network Connection
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.886727] e1000e 0000:00:19.0 eth0: MAC: 11, PHY: 12, PBA No: FFFFFF-0FF
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.886762] ahci 0000:00:1f.2: version 3.0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.886961] ahci 0000:00:1f.2: AHCI 0001.0300 32 slots 6 ports 6 Gbps 0xf impl SATA mode
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.886963] ahci 0000:00:1f.2: flags: 64bit ncq led clo pio slum part ems apst 
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.887806] e1000e 0000:00:19.0 eno1: renamed from eth0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.908813] scsi host0: ahci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.909079] scsi host1: ahci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.909325] scsi host2: ahci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.909531] scsi host3: ahci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.909845] scsi host4: ahci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.910045] scsi host5: ahci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.910134] ata1: SATA max UDMA/133 abar m2048@0xf7d3a000 port 0xf7d3a100 irq 30
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.910136] ata2: SATA max UDMA/133 abar m2048@0xf7d3a000 port 0xf7d3a180 irq 30
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.910137] ata3: SATA max UDMA/133 abar m2048@0xf7d3a000 port 0xf7d3a200 irq 30
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.910138] ata4: SATA max UDMA/133 abar m2048@0xf7d3a000 port 0xf7d3a280 irq 30
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.910139] ata5: DUMMY
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.910140] ata6: DUMMY
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.912193] i915 0000:00:02.0: enabling device (0006 -> 0007)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.948169] usb 1-1: new high-speed USB device number 2 using ehci-pci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.954666] [drm] ring test on 5 succeeded in 2 usecs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.954672] [drm] UVD initialized successfully.
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.954914] [drm] ib test on ring 0 succeeded in 0 usecs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.954957] [drm] ib test on ring 3 succeeded in 0 usecs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.954998] [drm] ib test on ring 4 succeeded in 0 usecs
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.972196] usb 3-3: new high-speed USB device number 2 using xhci_hcd
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    0.972221] usb 2-1: new high-speed USB device number 2 using ehci-pci
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.096588] usb 1-1: New USB device found, idVendor=8087, idProduct=8008
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.096590] usb 1-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.097015] hub 1-1:1.0: USB hub found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.097195] hub 1-1:1.0: 6 ports detected
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.105065] usb 3-3: New USB device found, idVendor=194f, idProduct=0403
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.105067] usb 3-3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.105068] usb 3-3: Product: PreSonus AudioBox iTwo
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.105069] usb 3-3: Manufacturer: PreSonus
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.105070] usb 3-3: SerialNumber: AB5C14111209
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.108561] usb 2-1: New USB device found, idVendor=8087, idProduct=8000
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.108563] usb 2-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.108884] hub 2-1:1.0: USB hub found
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.109052] hub 2-1:1.0: 6 ports detected
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.228177] ata2: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.229146] ata2.00: ATA-9: SanDisk SD7SB3Q128G1002, X2150000, max UDMA/133
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.229148] ata2.00: 250069680 sectors, multi 1: LBA48 NCQ (depth 31/32), AA
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.230804] ata2.00: configured for UDMA/133
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.232195] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.232213] ata3: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.232244] ata4: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.232465] ata4.00: ATA-11: TOSHIBA A100, SBFA10.1, max UDMA/133
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.232467] ata4.00: 468862128 sectors, multi 16: LBA48 NCQ (depth 31/32), AA
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.232786] ata4.00: configured for UDMA/133
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.238058] ata3.00: ATA-8: SAMSUNG HD103SJ, 1AJ10001, max UDMA/133
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.238060] ata3.00: 1953525168 sectors, multi 16: LBA48 NCQ (depth 31/32), AA
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.238847] ata1.00: ATA-7: SAMSUNG HD154UI, 1AG01118, max UDMA7
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.238849] ata1.00: 2930277168 sectors, multi 16: LBA48 NCQ (depth 31/32), AA
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.244037] ata3.00: configured for UDMA/133
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.245596] ata1.00: configured for UDMA/133
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.245896] scsi 0:0:0:0: Direct-Access     ATA      SAMSUNG HD154UI  1118 PQ: 0 ANSI: 5
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.246163] sd 0:0:0:0: [sda] 2930277168 512-byte logical blocks: (1.50 TB/1.36 TiB)
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.246183] sd 0:0:0:0: Attached scsi generic sg0 type 0
+May  1 20:01:02 steini-G1-Sniper-B5 kernel: [    1.246250] sd 0:0:0:0: [sda] Write Protect is off
+May  1 20:01:02 steini-G1-Sniper-B5 kernel:

@@ -1,0 +1,192 @@
+p.
+May  1 20:01:02 steini-G1-Sniper-B5 gpu-manager[888]: Error: can't open /lib/modules/4.4.0-75-generic/updates/dkms
+May  1 20:01:02 steini-G1-Sniper-B5 gpu-manager[888]: Error: can't open /lib/modules/4.4.0-75-generic/updates/dkms
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Permit User Sessions.
+May  1 20:01:02 steini-G1-Sniper-B5 avahi-daemon[920]: Successfully called chroot().
+May  1 20:01:02 steini-G1-Sniper-B5 avahi-daemon[920]: Successfully dropped remaining capabilities.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started IIO Sensor Proxy service.
+May  1 20:01:02 steini-G1-Sniper-B5 avahi-daemon[920]: No service file found in /etc/avahi/services.
+May  1 20:01:02 steini-G1-Sniper-B5 ModemManager[883]: <info>  ModemManager (version 1.4.12) starting in system bus...
+May  1 20:01:02 steini-G1-Sniper-B5 avahi-daemon[920]: Network interface enumeration completed.
+May  1 20:01:02 steini-G1-Sniper-B5 avahi-daemon[920]: Server startup complete. Host name is steini-G1-Sniper-B5.local. Local service cookie is 3065326829.
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: acpitz-virtual-0
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Adapter: Virtual device
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: temp1:        +27.8°C  (crit = +105.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: temp2:        +29.8°C  (crit = +105.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: radeon-pci-0100
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Adapter: PCI adapter
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: temp1:        +41.5°C  (crit = +120.0°C, hyst = +90.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: coretemp-isa-0000
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Adapter: ISA adapter
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Physical id 0:  +49.0°C  (high = +80.0°C, crit = +100.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Core 0:         +49.0°C  (high = +80.0°C, crit = +100.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Core 1:         +48.0°C  (high = +80.0°C, crit = +100.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Core 2:         +47.0°C  (high = +80.0°C, crit = +100.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 sensors[946]: Core 3:         +49.0°C  (high = +80.0°C, crit = +100.0°C)
+May  1 20:01:02 steini-G1-Sniper-B5 dbus[852]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkitd.service'
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Initialize hardware monitoring sensors.
+May  1 20:01:02 steini-G1-Sniper-B5 thermald[879]: 13 CPUID levels; family:model:stepping 0x6:3c:3 (6:60:3)
+May  1 20:01:02 steini-G1-Sniper-B5 thermald[879]: Polling mode is enabled: 4
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Save/Restore Sound Card State.
+May  1 20:01:02 steini-G1-Sniper-B5 thermald[879]: sysfs read failed constraint_0_max_power_uw
+May  1 20:01:02 steini-G1-Sniper-B5 gpu-manager[888]: update-alternatives: error: no alternatives for x86_64-linux-gnu_gfxcore_conf
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Detect the available GPUs and deal with any system changes.
+May  1 20:01:02 steini-G1-Sniper-B5 preload[833]:  * Starting Adaptive readahead daemon preload
+May  1 20:01:02 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668862.1867] NetworkManager (version 1.2.6) is starting...
+May  1 20:01:02 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668862.1869] Read config: /etc/NetworkManager/NetworkManager.conf (etc: default-wifi-powersave-on.conf)
+May  1 20:01:02 steini-G1-Sniper-B5 preload[833]:    ...done.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: Adaptive readahead daemon.
+May  1 20:01:02 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668862.1926] manager[0x1a711b0]: monitoring kernel firmware directory '/lib/firmware'.
+May  1 20:01:02 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668862.1928] monitoring ifupdown state file '/run/network/ifstate'.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: disk temperature monitoring daemon.
+May  1 20:01:02 steini-G1-Sniper-B5 ntp[826]:  * Starting NTP server ntpd
+May  1 20:01:02 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668862.1988] dns-mgr[0x1a50950]: init: dns=dnsmasq, rc-manager=resolvconf, plugin=dnsmasq
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[985]: ntpd 4.2.8p4@1.3265-o Wed Apr  5 13:28:07 UTC 2017 (1): Starting
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[985]: Command line: /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 108:114
+May  1 20:01:02 steini-G1-Sniper-B5 dbus[852]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+May  1 20:01:02 steini-G1-Sniper-B5 ntp[826]:    ...done.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: Start NTP daemon.
+May  1 20:01:02 steini-G1-Sniper-B5 virtualbox-guest-utils[850]:  * VirtualBox Additions disabled, not in a Virtual Machine
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: VirtualBox Linux Additions.
+May  1 20:01:02 steini-G1-Sniper-B5 speech-dispatcher[884]:  * speech-dispatcher disabled; edit /etc/default/speech-dispatcher
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: Speech Dispatcher.
+May  1 20:01:02 steini-G1-Sniper-B5 loadcpufreq[903]:  * Loading cpufreq kernel modules...
+May  1 20:01:02 steini-G1-Sniper-B5 irqbalance[909]:  * Starting SMP IRQ Balancer: irqbalance
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: Set the CPU Frequency Scaling governor to "ondemand".
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[988]: proto: precision = 0.041 usec (-24)
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: Record successful boot for GRUB.
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[988]: Listen and drop on 0 v6wildcard [::]:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[988]: Listen and drop on 1 v4wildcard 0.0.0.0:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[988]: Listen normally on 2 lo 127.0.0.1:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[988]: Listen normally on 3 lo [::1]:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[988]: Listening on routing socket on fd #20 for interface updates
+May  1 20:01:02 steini-G1-Sniper-B5 irqbalance[909]:    ...done.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: daemon to balance interrupts for SMP systems.
+May  1 20:01:02 steini-G1-Sniper-B5 acpid: starting up with netlink and the input layer
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Thermal Daemon Service.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Network Manager.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Login Service.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Network Manager Script Dispatcher Service...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Authenticate and Authorize Users to Run Privileged Tasks...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Make remote CUPS printers available locally.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Daily apt activities...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Raise network interfaces.
+May  1 20:01:02 steini-G1-Sniper-B5 polkitd[1236]: started daemon version 0.105 using authority implementation `local' version `0.105'
+May  1 20:01:02 steini-G1-Sniper-B5 dbus[852]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Authenticate and Authorize Users to Run Privileged Tasks.
+May  1 20:01:02 steini-G1-Sniper-B5 accounts-daemon[904]: started daemon version 0.6.40
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Modem Manager.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Accounts Service.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Reached target Network.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting OpenVPN service...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting /etc/rc.local Compatibility...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started OpenVPN service.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started /etc/rc.local Compatibility.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Stopping LSB: Start NTP daemon...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Terminate Plymouth Boot Screen...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Hold until boot process finishes up...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Received SIGRTMIN+21 from PID 232 (plymouthd).
+May  1 20:01:02 steini-G1-Sniper-B5 ntp[1307]:  * Stopping NTP server ntpd
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[988]: ntpd exiting on signal 15 (Terminated)
+May  1 20:01:02 steini-G1-Sniper-B5 ntp[1307]:    ...done.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Stopped LSB: Start NTP daemon.
+May  1 20:01:02 steini-G1-Sniper-B5 ntpdate[1424]: name server cannot be used: Temporary failure in name resolution (-3)
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Terminate Plymouth Boot Screen.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Hold until boot process finishes up.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started Getty on tty1.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Reached target Login Prompts.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting Set console scheme...
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started MDM Display Manager.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Starting LSB: Start NTP daemon...
+May  1 20:01:02 steini-G1-Sniper-B5 ntp[1736]:  * Starting NTP server ntpd
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1819]: ntpd 4.2.8p4@1.3265-o Wed Apr  5 13:28:07 UTC 2017 (1): Starting
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1819]: Command line: /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 108:114
+May  1 20:01:02 steini-G1-Sniper-B5 ntp[1736]:    ...done.
+May  1 20:01:02 steini-G1-Sniper-B5 systemd[1]: Started LSB: Start NTP daemon.
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1850]: proto: precision = 0.041 usec (-24)
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1850]: Listen and drop on 0 v6wildcard [::]:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1850]: Listen and drop on 1 v4wildcard 0.0.0.0:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1850]: Listen normally on 2 lo 127.0.0.1:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1850]: Listen normally on 3 lo [::1]:123
+May  1 20:01:02 steini-G1-Sniper-B5 ntpd[1850]: Listening on routing socket on fd #20 for interface updates
+May  1 20:01:03 steini-G1-Sniper-B5 systemd[1]: Started Set console scheme.
+May  1 20:01:03 steini-G1-Sniper-B5 kernel: [    5.290811] input: Microsoft X-Box 360 pad as /devices/pci0000:00/0000:00:14.0/usb3/3-11/3-11:1.0/input/input21
+May  1 20:01:03 steini-G1-Sniper-B5 kernel: [    5.291516] usbcore: registered new interface driver xpad
+May  1 20:01:03 steini-G1-Sniper-B5 acpid: 9 rules loaded
+May  1 20:01:03 steini-G1-Sniper-B5 acpid: waiting for events: event logging is off
+May  1 20:01:03 steini-G1-Sniper-B5 dbus[852]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May  1 20:01:03 steini-G1-Sniper-B5 systemd[1]: Started Network Manager Script Dispatcher Service.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1331] init!
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1333] management mode: unmanaged
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1335] devices added (path: /sys/devices/pci0000:00/0000:00:19.0/net/eno1, iface: eno1)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1335] device added (path: /sys/devices/pci0000:00/0000:00:19.0/net/eno1, iface: eno1): no ifupdown configuration found.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1336] devices added (path: /sys/devices/virtual/net/lo, iface: lo)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1336] device added (path: /sys/devices/virtual/net/lo, iface: lo): no ifupdown configuration found.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1336] end _init.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1336] settings: loaded plugin ifupdown: (C) 2008 Canonical Ltd.  To report bugs please use the NetworkManager mailing list. (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-settings-plugin-ifupdown.so)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1336] settings: loaded plugin keyfile: (c) 2007 - 2015 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1338] SettingsPlugin-Ofono: init!
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <warn>  [1493668863.1339] SettingsPlugin-Ofono: file doesn't exist: /var/lib/ofono
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1339] SettingsPlugin-Ofono: end _init.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1339] settings: loaded plugin ofono: (C) 2013-2016 Canonical Ltd.  To report bugs please use the NetworkManager mailing list. (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-settings-plugin-ofono.so)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1339] (27849632) ... get_connections.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1339] (27849632) ... get_connections (managed=false): return empty list.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1416] keyfile: new connection /etc/NetworkManager/system-connections/Síminn Default (2b5a7832-398a-41b5-bf52-4236ab6021ca,"Síminn Default")
+May  1 20:01:03 steini-G1-Sniper-B5 mdm[1682]: Starting mdm...
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1501] keyfile: new connection /etc/NetworkManager/system-connections/Profile 1 (61b4c417-b487-46db-a333-42defb01aa0d,"Profile 1")
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1577] keyfile: new connection /etc/NetworkManager/system-connections/Auto Ethernet (4d2bc4ac-9bb0-4302-a16d-ab00f99d872e,"Auto Ethernet")
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1582] SettingsPlugin-Ofono: (27849856) ... get_connections.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1582] SettingsPlugin-Ofono: (27849856) connections count: 0
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1583] get unmanaged devices count: 0
+May  1 20:01:03 steini-G1-Sniper-B5 dbus[852]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+May  1 20:01:03 steini-G1-Sniper-B5 loadcpufreq[903]:    ...done.
+May  1 20:01:03 steini-G1-Sniper-B5 systemd[1]: Starting Hostname Service...
+May  1 20:01:03 steini-G1-Sniper-B5 systemd[1]: Started LSB: Load kernel modules needed to enable cpufreq scaling.
+May  1 20:01:03 steini-G1-Sniper-B5 systemd[1]: Starting LSB: set CPUFreq kernel parameters...
+May  1 20:01:03 steini-G1-Sniper-B5 dbus[852]: [system] Successfully activated service 'org.freedesktop.hostname1'
+May  1 20:01:03 steini-G1-Sniper-B5 systemd[1]: Started Hostname Service.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1915] settings: hostname: using hostnamed
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1915] settings: hostname changed from (none) to "steini-G1-Sniper-B5"
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1917] Using DHCP client 'dhclient'
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1917] manager: WiFi enabled by radio killswitch; enabled by state file
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1917] manager: WWAN enabled by radio killswitch; disabled by state file
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1917] manager: Networking is enabled by state file
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1918] Loaded device plugin: NMVxlanFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1918] Loaded device plugin: NMVlanFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1918] Loaded device plugin: NMVethFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1918] Loaded device plugin: NMTunFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1918] Loaded device plugin: NMMacvlanFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1919] Loaded device plugin: NMIPTunnelFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1919] Loaded device plugin: NMInfinibandFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1919] Loaded device plugin: NMEthernetFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1919] Loaded device plugin: NMBridgeFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1919] Loaded device plugin: NMBondFactory (internal)
+May  1 20:01:03 steini-G1-Sniper-B5 nm-dispatcher: req:1 'hostname': new request (1 scripts)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1923] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-wifi.so)
+May  1 20:01:03 steini-G1-Sniper-B5 nm-dispatcher: req:1 'hostname': start running ordered scripts...
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1929] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-adsl.so)
+May  1 20:01:03 steini-G1-Sniper-B5 cpufrequtils[2305]:  * CPUFreq Utilities: Setting ondemand CPUFreq governor...
+May  1 20:01:03 steini-G1-Sniper-B5 cpufrequtils[2305]:  * disabled, governor not available...
+May  1 20:01:03 steini-G1-Sniper-B5 cpufrequtils[2305]:    ...done.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1975] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-bluetooth.so)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1978] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-wwan.so)
+May  1 20:01:03 steini-G1-Sniper-B5 systemd[1]: Started LSB: set CPUFreq kernel parameters.
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: nm_device_get_device_type: assertion 'NM_IS_DEVICE (self)' failed
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1991] device (lo): link connected
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.1996] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/0)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.2005] manager: (eno1): new Ethernet device (/org/freedesktop/NetworkManager/Devices/1)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.2014] device (eno1): state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May  1 20:01:03 steini-G1-Sniper-B5 kernel: [    5.375290] IPv6: ADDRCONF(NETDEV_UP): eno1: link is not ready
+May  1 20:01:03 steini-G1-Sniper-B5 acpid: client connected from 2287[0:0]
+May  1 20:01:03 steini-G1-Sniper-B5 acpid: 1 client rule loaded
+May  1 20:01:03 steini-G1-Sniper-B5 kernel: [    5.576563] IPv6: ADDRCONF(NETDEV_UP): eno1: link is not ready
+May  1 20:01:03 steini-G1-Sniper-B5 ntpd[1850]: error resolving pool 0.ubuntu.pool.ntp.org: Temporary failure in name resolution (-3)
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.4092] urfkill disappeared from the bus
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.4106] ofono is now available
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <info>  [1493668863.4112] ModemManager available in the bus
+May  1 20:01:03 steini-G1-Sniper-B5 NetworkManager[919]: <warn>  [1493668863.4114] failed to enumerate oFono devices: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+May  1 20:01:03 steini-G1-Sniper-B5 ag[2353]: mdm-superinit Starting...
+May  1 20:01:03 steini-G1-Sniper-B5 ag[2354]: mdm-superinit Finished
+May  1 20:01:03 steini-G1-Sniper-B5 /mdm-set-keyboard-layout: Current keyboard configuration: rules:      evdev#012model:      p
